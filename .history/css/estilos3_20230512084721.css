@@ -360,6 +360,14 @@ body {
         padding: 1rem;
     }
 
+/* height: 15%;
+    background-color: rgb(53, 58, 64);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+}
+
 
     .contenedorLogo {
         width: 70%;
